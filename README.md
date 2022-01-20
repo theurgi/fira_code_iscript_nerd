@@ -1,7 +1,7 @@
 # fira_code_iscript_nerd
 
 <p align="center" >
-  <img src="./font_preview.png" width="500px">
+  <img src="./font_preview.png" width="500px" alt="font preview">
 </p>
 
 [FiraCodeiScript](https://github.com/kencrocken/FiraCodeiScript) = [FiraCode](https://github.com/tonsky/FiraCode) + Script12
